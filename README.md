@@ -9,6 +9,6 @@ ss.sh is a short txt story playable in the terminal. Tested on Arch Linux and OS
 
 Looks like this:  
 
-![Screenshot](screenshot.jpg)
+![Screenshot](https://github.com/lee2sman/sssh/blob/master/screenshot.jpg)
 
 Super short 3-5 minute gameplay. Inspired by cyberpunk, *new* science fiction, sound art, squats, etc.
